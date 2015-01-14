@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
 
   spec.name        = 'rMeetup'
   spec.description = 'meetup.com API wrapper for Ruby'
-  spec.authors     = ['Jared Pace', 'Jason Berlinsky', 'Tommy Chan', 'Tanner Mares', 'Zishan Ahmad', 'Nikica Jokić']
-  spec.email       = ['jdpace@github.com', 'jason@jasonberlinsky.com', 'tommytcchan@gmail.com', 'tannermares@gmail.com', 'me@zishanahmad.com', 'neektza@gmail.com']
+  spec.authors     = ['Jared Pace', 'Jason Berlinsky', 'Tommy Chan', 'Tanner Mares', 'Zishan Ahmad', 'Nikica Jokić', 'Emin Bugra Saral']
+  spec.email       = ['jdpace@github.com', 'jason@jasonberlinsky.com', 'tommytcchan@gmail.com', 'tannermares@gmail.com', 'me@zishanahmad.com', 'neektza@gmail.com', 'eminbugrasaral@me.com']
   spec.homepage    = 'https://github.com/neektza/rmeetup'
   spec.summary     = 'A Ruby wrapper for the Meetup API v2'
 
